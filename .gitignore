@@ -1,0 +1,5 @@
+/model/lstm_text_generator.pth
+/data/tokenized_texts.json
+/data/tweets.txt
+/data/clean_texts.txt
+/data/encoded_texts.json
